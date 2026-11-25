@@ -1,0 +1,1 @@
+Write the single line a gamer texts the boss to get out of work during GTA 6 launch week, at most 20 words, one line of plain text that reads like something a real person would send in a hurry, as a deterministic Python program that writes exactly that line to /output/entry.txt.
